@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\bin\Debug\netcoreapp2.1\1728.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\bin\Debug\netcoreapp2.1\1728.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\bin\Debug\netcoreapp2.1\1728.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\bin\Debug\netcoreapp2.1\1728.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\bin\Debug\netcoreapp2.1\1728.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1728\obj\Debug\netcoreapp2.1\1728.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\bin\Debug\netcoreapp2.1\InsideOut_1235.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\bin\Debug\netcoreapp2.1\InsideOut_1235.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\bin\Debug\netcoreapp2.1\InsideOut_1235.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\bin\Debug\netcoreapp2.1\InsideOut_1235.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\bin\Debug\netcoreapp2.1\InsideOut_1235.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1235_InsideOut\obj\Debug\netcoreapp2.1\InsideOut_1235.pdb

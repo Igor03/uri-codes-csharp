@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\bin\Debug\netcoreapp2.1\1709.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\bin\Debug\netcoreapp2.1\1709.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\bin\Debug\netcoreapp2.1\1709.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\bin\Debug\netcoreapp2.1\1709.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\bin\Debug\netcoreapp2.1\1709.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1709\obj\Debug\netcoreapp2.1\1709.csprojAssemblyReference.cache

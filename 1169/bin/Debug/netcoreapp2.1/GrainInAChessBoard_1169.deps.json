@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GrainInAChessBoard_1169/1.0.0": {
+        "runtime": {
+          "GrainInAChessBoard_1169.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrainInAChessBoard_1169/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

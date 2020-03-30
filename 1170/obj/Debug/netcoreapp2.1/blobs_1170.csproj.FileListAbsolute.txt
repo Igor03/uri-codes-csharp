@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\bin\Debug\netcoreapp2.1\blobs_1170.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\bin\Debug\netcoreapp2.1\blobs_1170.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\bin\Debug\netcoreapp2.1\blobs_1170.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\bin\Debug\netcoreapp2.1\blobs_1170.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\bin\Debug\netcoreapp2.1\blobs_1170.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\blobs_1170\obj\Debug\netcoreapp2.1\blobs_1170.pdb

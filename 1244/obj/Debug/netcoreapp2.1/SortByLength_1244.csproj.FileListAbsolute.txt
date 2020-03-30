@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\bin\Debug\netcoreapp2.1\SortByLength_1244.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\bin\Debug\netcoreapp2.1\SortByLength_1244.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\bin\Debug\netcoreapp2.1\SortByLength_1244.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\bin\Debug\netcoreapp2.1\SortByLength_1244.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\bin\Debug\netcoreapp2.1\SortByLength_1244.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\SortByLength_1244\obj\Debug\netcoreapp2.1\SortByLength_1244.pdb

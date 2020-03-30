@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\bin\Debug\netcoreapp2.1\GrainInAChessBoard_1169.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\bin\Debug\netcoreapp2.1\GrainInAChessBoard_1169.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\bin\Debug\netcoreapp2.1\GrainInAChessBoard_1169.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\bin\Debug\netcoreapp2.1\GrainInAChessBoard_1169.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\bin\Debug\netcoreapp2.1\GrainInAChessBoard_1169.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\GrainInAChessBoard_1169\obj\Debug\netcoreapp2.1\GrainInAChessBoard_1169.pdb

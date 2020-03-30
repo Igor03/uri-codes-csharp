@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\bin\Debug\netcoreapp2.1\1171.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\bin\Debug\netcoreapp2.1\1171.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\bin\Debug\netcoreapp2.1\1171.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\bin\Debug\netcoreapp2.1\1171.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\bin\Debug\netcoreapp2.1\1171.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1171\obj\Debug\netcoreapp2.1\1171.pdb

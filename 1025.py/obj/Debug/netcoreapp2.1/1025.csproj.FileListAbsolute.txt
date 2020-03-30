@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\bin\Debug\netcoreapp2.1\1025.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\bin\Debug\netcoreapp2.1\1025.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\bin\Debug\netcoreapp2.1\1025.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\bin\Debug\netcoreapp2.1\1025.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\bin\Debug\netcoreapp2.1\1025.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1025.py\obj\Debug\netcoreapp2.1\1025.pdb

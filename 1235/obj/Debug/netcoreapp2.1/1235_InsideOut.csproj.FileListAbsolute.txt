@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\bin\Debug\netcoreapp2.1\1235_InsideOut.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\bin\Debug\netcoreapp2.1\1235_InsideOut.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\bin\Debug\netcoreapp2.1\1235_InsideOut.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\bin\Debug\netcoreapp2.1\1235_InsideOut.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\bin\Debug\netcoreapp2.1\1235_InsideOut.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\1235_InsideOut\obj\Debug\netcoreapp2.1\1235_InsideOut.pdb

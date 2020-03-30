@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\bin\Debug\netcoreapp2.1\NumberingRoads_1306.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\bin\Debug\netcoreapp2.1\NumberingRoads_1306.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\bin\Debug\netcoreapp2.1\NumberingRoads_1306.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\bin\Debug\netcoreapp2.1\NumberingRoads_1306.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\bin\Debug\netcoreapp2.1\NumberingRoads_1306.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.csprojAssemblyReference.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\NumberingRoads_1306\obj\Debug\netcoreapp2.1\NumberingRoads_1306.pdb

@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.AssemblyInfo.cs
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\bin\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.deps.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\bin\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.runtimeconfig.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\bin\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\bin\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\bin\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.dll
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.pdb
+C:\Users\jigor\source\repos\URI_ONLINE_JUDGE\CarregaOuNaoCarrega_1026\obj\Debug\netcoreapp2.1\CarregaOuNaoCarrega_1026.csprojAssemblyReference.cache

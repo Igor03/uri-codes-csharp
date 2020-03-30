@@ -1,0 +1,11 @@
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\bin\Debug\netcoreapp2.1\1739.deps.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\bin\Debug\netcoreapp2.1\1739.runtimeconfig.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\bin\Debug\netcoreapp2.1\1739.runtimeconfig.dev.json
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\bin\Debug\netcoreapp2.1\1739.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\bin\Debug\netcoreapp2.1\1739.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.csproj.CoreCompileInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.AssemblyInfoInputs.cache
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.AssemblyInfo.cs
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.dll
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.pdb
+C:\Users\jigor\source\repos\Igor03\uri-codes\1739\obj\Debug\netcoreapp2.1\1739.csprojAssemblyReference.cache
